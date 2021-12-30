@@ -1,0 +1,49 @@
+body {
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #298A08 !important;
+}
+
+.quem-somos {
+  background-color: #8181F7;
+  color: white;
+}
+
+.parceiros {
+  background-color: #81F795;
+  color: white;
+}
+
+#servicos .row {
+  display: flex;
+  align-items: center;
+
+}
+
+.servicos {
+  background-color: #81ED;
+  color: white;
+}
+
+.contato, .servicos {
+  height: 100vh;
+}
+
+.contato .container {
+  margin-top: 180px;
+}
+
+.margin {
+  padding: 30px 0;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+}
+
+h4 {
+  margin-top: 20px;
+}
